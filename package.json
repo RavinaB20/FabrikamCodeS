@@ -1,0 +1,23 @@
+{
+  "name": "fabrikamcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrishtiSinghai/FabrikamCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrishtiSinghai/FabrikamCode/issues"
+  },
+  "homepage": "https://github.com/SrishtiSinghai/FabrikamCode#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
